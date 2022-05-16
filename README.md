@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Farhaan Nazirkhan" />
+  <img src="https://github.com/nfarhaan12/nfarhaan12/blob/main/name.svg" alt="Farhaan Nazirkhan" />
 </h1>
 
 ## Hey! 👋
