@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Farhaan, a 20 years old web developer.
+I'm Farhaan, a 20 years old Software Engineering student.
 
 - 👥 Core team member at [@NRKStudios]
 
