@@ -1,15 +1,25 @@
-<div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-</div>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Farhaan Nazirkhan" />
+</h1>
 
-<div align="center" width="50">
+## Hey! 👋
+I'm Marton, a 18 years old web developer from Hungary.
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
 
-</div>
+- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
 
-<div align="center">
-  
+## Skills
+- 👨‍💻 TypeScript, JavaScript, PHP, C#
+- ⚙️ React, Svelte, Vue
+- 👁️ SASS, CSS, Stylus
+- 💽 MySQL, SQL, Mongo
+
+## Contact
+- [marton.lederer.hu](https://marton.lederer.hu)
+- [@martonlederer](https://twitter.com/martonlederer) on Twitter
+- [@martonlederer](https://twitter.com/instagram) on Instagram
+- [Marton#6513](./) on Discord
   
   
 
