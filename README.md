@@ -3,23 +3,19 @@
 </h1>
 
 ## Hey! 👋
-I'm Marton, a 18 years old web developer from Hungary.
+I'm Farhaan, a 20 years old web developer.
 
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
-
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
+- 👥 Core team member at [@NRKStudios]
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP, C#
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
+- 👨‍💻 HTML, PHP, C++, Python
+- 👁️ SASS, CSS
+- 💽 MySQL, SQLServer, SQLite
 
 ## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](https://twitter.com/instagram) on Instagram
-- [Marton#6513](./) on Discord
+- [nfarhaan.me](https://nfarhaan.me/)
+- [@nfarhaan12](https://twitter.com/nfarhaan12) on Twitter
+- [Farhaan Nazirkhan](https://www.linkedin.com/in/farhaannazirkhan/) on Linkedin
   
   
 
