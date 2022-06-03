@@ -8,7 +8,7 @@ I'm Farhaan, a 20 years old Software Engineering student.
 - 👥 Core team member at [@NRKStudios]
 
 ## Skills
-- 👨‍💻 HTML, PHP, C++, Python
+- 👨‍💻 HTML, VB.NET, C++, Python
 - 👁️ SASS, CSS
 - 💽 MySQL, SQLServer, SQLite
 
