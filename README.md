@@ -9,7 +9,7 @@ I'm Farhaan, a 20 years old Software Engineering student.
 
 ## Skills
 - 👨‍💻 HTML, VB.NET, C++, Python
-- 👁️ SASS, CSS
+- 👁️ Adobe Lightroom, imovie, Movavi Video Editor 
 - 💽 MySQL, SQLServer, SQLite
 
 ## Contact
