@@ -68,6 +68,6 @@
 <a href="https://github.com/nfarhaan12/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nfarhaan12&theme=dark&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/nfarhaan12/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfarhaan12&langs_count=8&theme=gruvbox" />
 </a>
