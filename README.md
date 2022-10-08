@@ -33,6 +33,10 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s get 100 followers together in 2 simple steps](https://nfarhaan.medium.com/lets-get-100-followers-together-in-2-simple-steps-812e5d243a53?source=rss-b36e442541dd------2)
+- [Fundamental Python programs that you need to know](https://nfarhaan.medium.com/fundamental-python-programs-that-you-need-to-know-27b1a2cb9b8b?source=rss-b36e442541dd------2)
+- [Infinite Loop &lpar;A Cross Platform 3D Game&rpar;](https://nfarhaan.medium.com/infinite-loop-a-cross-platform-3d-game-e64bd73f026e?source=rss-b36e442541dd------2)
+- [Developing a Telegram Chatbot Using Python 3](https://nfarhaan.medium.com/developing-a-chatbot-using-python-3-6f5f9ebafbc7?source=rss-b36e442541dd------2)
 <!-- BLOG-POST-LIST:END -->
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
