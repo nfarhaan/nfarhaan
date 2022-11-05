@@ -12,11 +12,11 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on A Web Development Project
+- 🔭 I’m currently working on **A Web Development Project**
 
 - 🌱 I’m currently learning **BSc (Hons) Software Engneering**
 
-- 👨‍💻 All of my projects are available at [*Currently Assembling*](*Currently Assembling*)
+- 👨‍💻 All of my projects are available at [**Currently Assembling**]
 
 - 📝 I regularly write articles on [nfarhaan.medium.com](nfarhaan.medium.com)
 
