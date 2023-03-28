@@ -33,8 +33,8 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Bright Future for Conversational AI with ChatGPT4](https://nfarhaan.medium.com/a-bright-future-for-conversational-ai-with-chatgpt4-9cd1f7fd6fb4?source=rss-b36e442541dd------2)
 - [Autonomous Greenhouse System Using Arduino UNO — &lpar;POC&rpar;](https://nfarhaan.medium.com/autonomous-greenhouse-system-using-arduino-uno-poc-8ff386b44f3d?source=rss-b36e442541dd------2)
-- [Let&#39;s get 100 followers together in 2 simple steps](https://nfarhaan.medium.com/lets-get-100-followers-together-in-2-simple-steps-812e5d243a53?source=rss-b36e442541dd------2)
 - [Fundamental Python programs that you need to know](https://nfarhaan.medium.com/fundamental-python-programs-that-you-need-to-know-27b1a2cb9b8b?source=rss-b36e442541dd------2)
 - [Infinite Loop &lpar;A Cross Platform 3D Game&rpar;](https://nfarhaan.medium.com/infinite-loop-a-cross-platform-3d-game-e64bd73f026e?source=rss-b36e442541dd------2)
 <!-- BLOG-POST-LIST:END -->
