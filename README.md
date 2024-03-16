@@ -20,7 +20,7 @@
 
 - 📝 I regularly write articles on [nfarhaan.medium.com](nfarhaan.medium.com)
 
-- 💬 Ask me about **Python, C++, Java SE8-#, SQL**
+- 💬 Ask me about **Flutter, C++, Java SE8-#, SQL**
 
 - 📫 How to reach me **contactfarhaan@icloud.com**
 
