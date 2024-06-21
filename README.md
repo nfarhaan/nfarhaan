@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **contactfarhaan@icloud.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/farhaannazirkhan/](https://www.linkedin.com/in/farhaannazirkhan/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/farhaannazirkhan/](https://www.linkedin.com/in/nfarhaan/)
 
 - ⚡ Fun fact **Learning never exhausts my mind**
 
