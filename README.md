@@ -33,10 +33,10 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Predicting Heart Attacks Using Machine Learning Models: A Comprehensive Approach](https://nfarhaan.medium.com/predicting-heart-attacks-using-machine-learning-models-a-comprehensive-approach-91cc08342fa3?source=rss-b36e442541dd------2)
 - [Setting Up Python 3 in Visual Studio Code &lpar;Mac/Windows&rpar;](https://nfarhaan.medium.com/setting-up-python-3-invisual-studio-code-mac-windows-1ada2122576f?source=rss-b36e442541dd------2)
 - [A Bright Future for Conversational AI with ChatGPT4](https://nfarhaan.medium.com/a-bright-future-for-conversational-ai-with-chatgpt4-9cd1f7fd6fb4?source=rss-b36e442541dd------2)
 - [Autonomous Greenhouse System Using Arduino UNO — &lpar;POC&rpar;](https://nfarhaan.medium.com/autonomous-greenhouse-system-using-arduino-uno-poc-8ff386b44f3d?source=rss-b36e442541dd------2)
-- [Fundamental Python programs that you need to know](https://nfarhaan.medium.com/fundamental-python-programs-that-you-need-to-know-27b1a2cb9b8b?source=rss-b36e442541dd------2)
 <!-- BLOG-POST-LIST:END -->
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
