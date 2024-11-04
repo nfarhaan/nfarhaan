@@ -58,7 +58,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <a href="https://github.com/nfarhaan/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nfarhaan&show_icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nfarhaan&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/nfarhaan/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfarhaan&layout=compact&theme=dark&show_icons=true" />
