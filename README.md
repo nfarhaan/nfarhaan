@@ -64,6 +64,6 @@
 <a href="https://github.com/nfarhaan/github-readme-stats">
   <img align="right" src="https://github-readme-stats-nfarhaans-projects.vercel.app/api/top-langs/?username=nfarhaan&layout=compact&theme=dark&show_icons=true" />
 </a>
-<a href="https://github.com/nfarhaan/github-readme-stats">
+<!-- <a href="https://github.com/nfarhaan/github-readme-stats">
   <img align="right" src="https://github-readme-stats-nfarhaans-projects.vercel.app/api/wakatime?username=nfarhaan&layout=compact&theme=dark&show_icons=true" />
-</a>
+</a> -->
