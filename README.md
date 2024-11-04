@@ -4,7 +4,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Farhaan</h1>
-<h3 align="center">A proactive Software Engineering student with a passion for computer programming and Information Technology.</h3>
+<h3 align="center">A software engineer, Medium article writer, and entrepreneur who loves to create content for the internet.
+</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nfarhaan12&label=Profile%20views&color=0e75b6&style=flat" alt="nfarhaan12" /> </p>
 
