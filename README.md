@@ -47,7 +47,7 @@
 <a href="https://twitter.com/nfarhaan12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nfarhaan12" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/farhaannazirkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhaannazirkhan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18856764" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18856764" height="30" width="40" /></a>
-<a href="https://instagram.com/farhaan_234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farhaan_234" height="30" width="40" /></a>
+<a href="https://instagram.com/nfarhaan12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farhaan_234" height="30" width="40" /></a>
 <a href="https://medium.com/@nfarhaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nfarhaan" height="30" width="40" /></a>
 </p>
 
