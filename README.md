@@ -59,8 +59,8 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <a href="https://github.com/nfarhaan/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nfarhaan&theme=dark&show_icons=true" />
+  <img align="center" src="https://github-readme-stats-nfarhaans-projects.vercel.app/api?username=nfarhaan&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/nfarhaan/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfarhaan&layout=compact&theme=dark&show_icons=true" />
+  <img align="right" src="https://github-readme-stats-nfarhaans-projects.vercel.app/api/top-langs/?username=nfarhaan&layout=compact&theme=dark&show_icons=true" />
 </a>
