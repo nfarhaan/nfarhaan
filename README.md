@@ -13,24 +13,6 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on **A Web Development Project**
-
-- 🌱 I’m currently learning **BSc (Hons) Software Engneering**
-
-- 👨‍💻 All of my projects are available at [**Currently Assembling**]
-
-- 📝 I regularly write articles on [nfarhaan.medium.com](nfarhaan.medium.com)
-
-- 💬 Ask me about **Flutter, C++, Java SE8-#, SQL**
-
-- 📫 How to reach me **contactfarhaan@icloud.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/farhaannazirkhan/](https://www.linkedin.com/in/nfarhaan/)
-
-- ⚡ Fun fact **Learning never exhausts my mind**
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
